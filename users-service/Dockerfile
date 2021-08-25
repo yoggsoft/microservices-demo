@@ -4,6 +4,6 @@ COPY . /opt/app
 
 WORKDIR /opt/app
 
-RUN npm ci
+RUN npm i
 
 CMD npm run watch

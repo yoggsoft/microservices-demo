@@ -1,3 +1,3 @@
 import path from "path";
 
-console.log('workking');
+console.log('users-service working');
